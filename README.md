@@ -3,7 +3,7 @@
 >> This project aims to analyze the sales data of a retail shop and provide insights into customer behavior, product performance, and revenue trends. The data set contains information on transactions, products, customers, and dates from January 2023 to December 2023.
 ## Data Sources
 The data set consists of one excel file:
-retail_sales_dataset:
+retail_sales_dataset
 ## Data Processing
 The data processing steps include:
 Loading the data from the CSV files into pandas dataframes
